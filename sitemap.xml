@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://uhuuh.github.io/categories/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/example-category/</loc>
+    <loc>https://uhuuh.github.io/categories/example-category/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/example-tag/</loc>
+    <loc>https://uhuuh.github.io/tags/example-tag/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/hello-world/</loc>
+    <loc>https://uhuuh.github.io/posts/hello-world/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://uhuuh.github.io/posts/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://uhuuh.github.io/tags/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://uhuuh.github.io/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/archives/</loc>
+    <loc>https://uhuuh.github.io/archives/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>https://uhuuh.github.io/search/</loc>
   </url>
 </urlset>
